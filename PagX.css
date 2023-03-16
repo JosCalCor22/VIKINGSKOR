@@ -1,0 +1,296 @@
+body
+{
+    margin: 0%;
+}
+
+.Encabezado
+{
+    background-color: #E6B325;
+    font-family: 'Montserrat', sans-serif;
+    display: flex;
+    justify-content: baseline;
+    padding: 5px 0px 5px 5px;
+    border-radius: 0px 0px 13px 13px;
+    border: #000 solid 1px;
+    margin-bottom: 10px;
+}
+
+.Lema
+{
+    margin-right: 370px;
+    margin-left: 10px;
+    padding-top: 5px;
+}
+
+.Logo
+{
+    margin-left: 50px;
+}
+
+#Titulo
+{
+    color: #000;
+    font-weight:bolder;
+    text-decoration: none;
+    display: block;
+    text-align: left;
+    font-size: 30px;
+    font-weight: 20px;
+}
+
+#Slogan
+{
+    font-family: 'Raleway', sans-serif;
+    font-weight: bolder;
+    color: #000;
+    text-decoration: none;
+    display: block;
+    text-align: left;
+    font-size: 20px;
+    font-weight: 5px;
+}
+
+.Busqueda
+{
+    margin-right: 0px;
+    padding-top: 20px;
+    padding-left: 100px;  
+}
+
+#Texto1
+{
+    font-weight: 500;
+    color: #000;
+    text-decoration: none;
+    font-size: 20px;
+    padding-right: 5px;
+}
+
+#Texto2
+{
+    font-weight: 500;
+    color: #000;
+    text-decoration: none;
+    font-size: 20px;
+    padding-right: 5px;
+}
+
+.Botones
+{
+    padding-left: 25px;
+    padding-top: 12px;
+    margin-right: 10px;
+}
+
+button
+{
+    font-family: 'Montserrat', sans-serif;
+    background-color: #BF9742;
+    font-weight: 500;
+    font-size: 15px;
+    height: 40px;
+    width: 100px;
+    margin-right: 15px;
+    border-radius: 10px;
+    border: #000 solid 1px;
+}
+
+button:hover
+{
+    cursor: pointer;
+}
+
+.Boton2
+{
+    width: fit-content;
+}
+
+.Fondo2
+{
+    margin-left: 200px;
+}
+
+.Titulo2
+{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bolder;
+    margin-bottom: -20px;
+}
+
+.Items
+{
+    font-family: 'Raleway', sans-serif;
+    font-weight: bolder;
+}
+
+.Items2
+{
+    font-family: 'Raleway', sans-serif;
+    font-weight: bolder;
+}
+
+.Img
+{
+    display: inline-flex;    
+}
+
+.Img1
+{
+    display: inline-flex;
+    margin-right: 112px;
+}
+
+main p
+{
+    padding-left: 5px;
+}
+
+.Titulo3
+{
+    background-color: #E6B325;
+    font-family: 'Montserrat', sans-serif;
+    border: #000 solid 1px;
+    border-bottom: 0px;
+    margin-left: -20px;
+    margin-right: 300px;
+    padding: 0px 0px 20px 20px;
+}
+
+.Lista
+{
+    background-color: #E6B325;
+    font-family: 'Raleway', sans-serif;
+    font-weight: bolder;
+    font-size: 20px;
+    border: #000 solid 1px;
+    border-top: 0px;
+    margin: -40px 300px 0px -20px;
+    padding-left: 38px;
+    padding-bottom: 5px;
+}
+
+.Titulo4
+{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bolder;
+}
+
+.Elaboracion
+{
+    font-family: 'Montserrat', sans-serif;
+    color: #BF9742;
+    font-weight: bolder;
+    font-size: 18px;
+    margin: 0px 300px 0px 0px;
+    padding-left: 38px;
+}
+
+.Elaboracion p
+{
+    font-family: 'Raleway', sans-serif;
+    color: #000;
+    font-size: 18px;
+    margin-top: -10px;
+    margin-bottom: 20px;
+}
+
+.video
+{
+    margin-left: -20px;
+    margin-right: 0px;
+}
+
+.video p
+{
+    background-color: #BF9742;
+    font-family: 'Raleway', sans-serif;
+    font-weight: bolder;
+    font-size: 18px;
+    margin: -10px 299px 0px 0px;
+    padding: 10px 10px 10px 10px;
+    border: #000 solid 1px;
+}
+
+.video a
+{
+    text-decoration: none;
+    color: #E6B325;
+}
+
+.Footer
+{
+    background-color: #E6B325;
+    font-family: 'Montserrat', sans-serif;
+    display: flex;
+    justify-content: baseline;
+    padding: 5px 0px 5px 5px;
+    border-radius: 13px 13px 0px 0px;
+    border: #000 solid 1px;
+    margin-bottom: 2px;
+    margin-top: 50px;
+}
+
+.recetas
+{
+    font-family: 'Montserrat', sans-serif;
+    width: 200px;
+    margin-left: 35px;
+    margin-right: 90px;
+    padding-left: 20px;
+    padding-bottom: 20px;
+}
+
+.recetas a
+{
+    font-family: 'Raleway', sans-serif;
+    font-weight: bolder;
+    text-decoration: none;
+    color: #000;
+}
+
+.Blogs
+{
+    font-family: 'Montserrat', sans-serif;
+    width: 200px;
+    margin-right: 60px;
+}
+
+.Blogs a
+{
+    font-family: 'Raleway', sans-serif;
+    font-weight: bolder;
+    text-decoration: none;
+    color: #000;
+}
+
+.Network
+{
+    margin-right: 80px;
+}
+
+.Network a
+{
+    font-family: 'Raleway', sans-serif;
+    font-weight: bolder;
+    text-decoration: none;
+    color: #000;
+}
+
+.Network img
+{
+    margin-bottom: -30px;
+    padding-bottom: 20px;
+}
+
+.Logo2
+{
+    text-align: center;
+    padding-top: 30px;
+    padding-left: 10px;
+}
+
+.Logo2 a
+{
+    font-family: 'Montserrat', sans-serif;
+    padding-left: 30px;
+}
